@@ -31,8 +31,8 @@
 
 ```Python
 grades = {
-    'Some cource #1':[10, 8, 7...]
-    'Some cource #2':[9, 8...]
+    'Some cource #1':[10, 8, 7, ...],
+    'Some cource #2':[9, 8, ...]
     ...
 }
 ```
